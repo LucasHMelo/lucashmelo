@@ -3,7 +3,7 @@
 
 <h3 align="left">A Brazilian Computer Engineer</h3>
 
-- 🔭 I’m currently working on [Canal do Campo](canaldocampo.com.br)
+- 🔭 I’m currently working on [Alta Genetics](altagenetics.com.br)
 
 - :computer: Most used line of code `git init"`
 
